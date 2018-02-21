@@ -1,2 +1,3 @@
 # hello-world
-just a test repository
+
+Hi! this a test to try newbie features
